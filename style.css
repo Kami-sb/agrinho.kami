@@ -26,5 +26,8 @@ width: 50%;
     background-color: blue;
     padding: 12px;
     padding-right: 20px;
+}
+
+.botao a{
     color: white;
 }
