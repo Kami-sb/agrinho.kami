@@ -11,8 +11,13 @@ header {
     padding: 10px;
 }
 
-section {
+.intro {
     display: flex;
     align-items: center;
+    color: aqua;
 
+}
+
+.img-prin{
+width: 50%;
 }
