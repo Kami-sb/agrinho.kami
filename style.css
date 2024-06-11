@@ -21,3 +21,10 @@ header {
 .img-prin{
 width: 50%;
 }
+
+.botao{
+    background-color: blue;
+    padding: 12px;
+    padding-right: 20px;
+    color: white;
+}
